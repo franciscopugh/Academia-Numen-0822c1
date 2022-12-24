@@ -1,0 +1,10 @@
+.cardProductos {
+    margin: 4px;
+    align-items: center;
+    justify-content: center;
+}
+
+.cardProducto {
+    width: 19rem;
+    margin: 4px;
+}
